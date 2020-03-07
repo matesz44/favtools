@@ -32,11 +32,12 @@ Hope y'all like this repo cuz these are tha best ayyy
 
 # Desktop
 [dwm](https://dwm.suckless.org/)
-- [My build of dwm](https://github.com/matesz44/dwm)  
-  If u want to use **java** apps like `burp` u will need this for automatic rescale in wm's: 
-  ```
-  wmname LG3D
-  ```
+- [My build of dwm](https://github.com/matesz44/dwm)
+
+If u want to use **java** apps like `burp` u will need this for automatic rescale in wm's: 
+```
+wmname LG3D
+```
 
 [wmname](https://tools.suckless.org/x/wmname/)  
 
