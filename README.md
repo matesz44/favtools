@@ -45,7 +45,7 @@ wmname LG3D
 ```
 
 [wmname](https://tools.suckless.org/x/wmname/)  
-[dmenu](https://tools.suckless.org/dmenu/)  (Best fkin program in the whole universe (Just take a look at my scripts repo :D))  
+[dmenu](https://tools.suckless.org/dmenu/)  (Best fkin program in the whole universe (Just take a look at my [scripts repo](https://github.com/matesz44/scripts) :D))  
 [slstatus](https://tools.suckless.org/slstatus/) (Statusbar for dwm)
 - [My build of slstatus](https://github.com/matesz44/slstatus)  
 
@@ -54,7 +54,7 @@ wmname LG3D
 
 
 # Other bash scripts
-[scripts](https://github.com/matesz44/scripts)  
+[scripts](https://github.com/matesz44/scripts) (some very useful dmenu scripts that I use daily)
 
 # Other wordlists
 
