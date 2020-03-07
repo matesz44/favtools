@@ -20,6 +20,10 @@ Hope y'all like this repo cuz these are tha best ayyy
 [SqlMap](https://github.com/sqlmapproject/sqlmap)  
 [Sublist3r](https://github.com/aboul3la/Sublist3r)  
 [Stego-Toolkit](https://github.com/DominicBreuker/stego-toolkit)
+- Fast start `stego-toolkit` in **current dir**:
+  ```
+  sudo docker run -it --rm -v $(pwd):/data dominicbreuker/stego-toolkit /bin/bash
+  ```
 
 
 # Password manager
