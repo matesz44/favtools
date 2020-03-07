@@ -33,6 +33,12 @@ Hope y'all like this repo cuz these are tha best ayyy
 # Desktop
 [dwm](https://dwm.suckless.org/)
 - [My build of dwm](https://github.com/matesz44/dwm)  
+  If u want to use **java** apps like `burp` u will need this for automatic rescale in wm's: 
+  ```
+  wmname LG3D
+  ```
+
+[wmname](https://tools.suckless.org/x/wmname/)  
 
 [dmenu](https://tools.suckless.org/dmenu/)  
 [slstatus](https://tools.suckless.org/slstatus/)
@@ -40,7 +46,6 @@ Hope y'all like this repo cuz these are tha best ayyy
 
 [nnn](https://github.com/jarun/nnn)  
 [sxiv](https://github.com/muennich/sxiv)  
-[wmname](https://tools.suckless.org/x/wmname/)  
 
 
 # Other bash scripts
