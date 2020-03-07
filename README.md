@@ -12,7 +12,7 @@ Hope y'all like this repo cuz these are tha best ayyy
 [Ffuf](https://github.com/ffuf/ffuf) (**F**ast as **FU**ck web **F**uzzer (**written in go** btw))  
 [Ghidra](https://ghidra-sre.org/) (NSA Reversing tool(**very good** btw))  
 [GitRob](https://github.com/michenriksen/gitrob) (Scan some1's github profile for creds)  
-[GTFO](https://github.com/mzfr/gtfo) ([GTFOBins]() cli fetcher(my **favorite** one) )  
+[GTFO](https://github.com/mzfr/gtfo) ([GTFOBins](https://gtfobins.github.io/) cli fetcher(my **favorite** one) )  
 [Hash Identifier](https://github.com/psypanda/hashID) (Identify hashes)  
 [Httprobe](https://github.com/tomnomnom/httprobe) (Scan a list of domains if http {and,or} https is working)  
 [LinEnum](https://github.com/rebootuser/LinEnum) (Linux privesc checker)  
