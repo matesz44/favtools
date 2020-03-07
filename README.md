@@ -49,7 +49,7 @@ wmname LG3D
 [slstatus](https://tools.suckless.org/slstatus/) (Statusbar for dwm)
 - [My build of slstatus](https://github.com/matesz44/slstatus)  
 
-[nnn](https://github.com/jarun/nnn) (Best filemanager (**written in c** btw))
+[nnn](https://github.com/jarun/nnn) (Best filemanager (**written in c** btw))  
 [sxiv](https://github.com/muennich/sxiv)  (Image viewer **writen in c** like every good program))
 
 
