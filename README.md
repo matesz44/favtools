@@ -28,11 +28,11 @@ Hope y'all like this repo cuz these are tha best ayyy
 
 # Desktop
 [dwm](https://dwm.suckless.org/)
-- [My build](https://github.com/matesz44/dwm)  
+- [My build of dwm](https://github.com/matesz44/dwm)  
 
 [dmenu](https://tools.suckless.org/dmenu/)  
 [slstatus](https://tools.suckless.org/slstatus/)
-- [My build](https://github.com/matesz44/slstatus)  
+- [My build of slstatus](https://github.com/matesz44/slstatus)  
 
 [nnn](https://github.com/jarun/nnn)  
 [sxiv](https://github.com/muennich/sxiv)  
@@ -47,6 +47,7 @@ Hope y'all like this repo cuz these are tha best ayyy
 [dirbuster directory-list-2.3-](https://github.com/daviddias/node-dirbuster/tree/master/lists)  
 - [directory-list-2.3-small.txt](wordlists/directory-list-2.3-small.txt)
 - [directory-list-2.3-medium.txt](wordlists/directory-list-2.3-medium.txt)
-- [directory-list-2.3-big.txt](wordlists/directory-list-2.3-big.txt)
+- [directory-list-2.3-big.txt](wordlists/directory-list-2.3-big.txt)  
+
 [dirbust common.txt](wordlists/common.txt)
 
