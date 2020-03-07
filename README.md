@@ -9,6 +9,7 @@ Hope y'all like this repo cuz these are tha best ayyy
 [Cutter](https://github.com/radareorg/cutter)  
 [Dirsearch](https://github.com/maurosoria/dirsearch)  
 [Enum4Linux](https://github.com/portcullislabs/enum4linux)  
+[Ghidra](https://ghidra-sre.org/)  
 [GTFO](https://github.com/mzfr/gtfo)  
 [Hash Identifier](https://github.com/psypanda/hashID)  
 [LinEnum](https://github.com/rebootuser/LinEnum)  
@@ -21,16 +22,18 @@ Hope y'all like this repo cuz these are tha best ayyy
 [Stego-Toolkit](https://github.com/DominicBreuker/stego-toolkit)
 
 
-# Pw manager
+# Password manager
 [Bitwarden](https://bitwarden.com/)
 
 
 # Desktop
 [dwm](https://dwm.suckless.org/)
 - [My build](https://github.com/matesz44/dwm)  
+
 [dmenu](https://tools.suckless.org/dmenu/)  
 [slstatus](https://tools.suckless.org/slstatus/)
 - [My build](https://github.com/matesz44/slstatus)  
+
 [nnn](https://github.com/jarun/nnn)  
 [sxiv](https://github.com/muennich/sxiv)  
 [wmname](https://tools.suckless.org/x/wmname/)  
