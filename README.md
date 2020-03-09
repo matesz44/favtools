@@ -50,7 +50,7 @@ PROGRAM | DESCRIPTION | LANGUAGE
 ## My builds
 - [My build of dwm](https://github.com/matesz44/dwm)
 - [My build of slstatus](https://github.com/matesz44/slstatus)
-- [+ My dotfiles](https://github.com/matesz44/dotfiles)
+- [My dotfiles](https://github.com/matesz44/dotfiles)
 
 # Tips n tricks
 
