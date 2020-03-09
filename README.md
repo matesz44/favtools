@@ -14,6 +14,7 @@ PROGRAM | DESCRIPTION | LANGUAGE
 [Ffuf](https://github.com/ffuf/ffuf) | **F**ast as **FU**ck web **F**uzzer | Go
 [Ghidra](https://ghidra-sre.org) | NSA Reversing tool(**very good** btw) | Java
 [GitRob](https://github.com/michenriksen/gitrob) | Scan some1's github profile for creds | Go
+[Grip](https://github.com/joeyespo/grip) | Markdown preview in github template (*saves u* from literally **10 useless commits**) | Python
 [GTFO](https://github.com/mzfr/gtfo) | [GTFOBins](https://gtfobins.github.io) **cli** fetcher(my **favorite** one) | Python
 [Hash Identifier](https://github.com/psypanda/hashID) | Identify hashes | Python
 [Httprobe](https://github.com/tomnomnom/httprobe) | Scan a list of **domains** if `http` {and,or} `https` is working | Go
