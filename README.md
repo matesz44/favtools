@@ -21,7 +21,8 @@ Hope y'all like this repo cuz these are tha best ayyy
 [SecLists](https://github.com/danielmiessler/SecLists) (**HUGE** repo of wordlist )  
 [Pentestmonkey php-reverse-shell](https://github.com/pentestmonkey/php-reverse-shell) (php revshell yes.. if u dont know whats the use of this learn more about hacking *dont be a skid*)  
 [SqlMap](https://github.com/sqlmapproject/sqlmap) (sql injection fuzzer, checker)  
-[Sublist3r](https://github.com/aboul3la/Sublist3r) (subdomain lister from ssearch engines)  
+[Subfinder](https://github.com/projectdiscovery/subfinder) (passive subdomain discovery tool(**faster** than `Sublist3r` btw))  
+[Sublist3r](https://github.com/aboul3la/Sublist3r) (subdomain lister from search engines)  
 [Stego-Toolkit](https://github.com/DominicBreuker/stego-toolkit) (Best for stego challs)
 - Fast start `stego-toolkit` in **current dir**:
   ```
@@ -56,6 +57,7 @@ wmname LG3D
 # Other bash scripts
 [scripts](https://github.com/matesz44/scripts) (some very useful dmenu scripts that I use daily)
 
+
 # Other wordlists
 
 [dirbuster directory-list-2.3-](https://github.com/daviddias/node-dirbuster/tree/master/lists)  
@@ -64,4 +66,9 @@ wmname LG3D
 - [directory-list-2.3-big.txt](wordlists/directory-list-2.3-big.txt)  
 
 [dirbust common.txt](wordlists/common.txt)
+
+
+# Arch install
+[Arcolinux Archway install](https://arcolinuxd.com/5-the-actual-installation-of-arch-linux-phase-1-bios/) (A vanilla arch step by step install with explainations)  
+
 
