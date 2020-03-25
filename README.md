@@ -22,6 +22,7 @@ PROGRAM | DESCRIPTION | LANGUAGE
 [{Lin,Win}Peas](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) | **New generation** linux, windows privesc checker | C#, Bash, Batch
 [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) | Get those keys boii | Python
 [SecLists](https://github.com/danielmiessler/SecLists) | **HUGE** repo of wordlist + some webshells | What the actual fuck do u think
+[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Literally **EVERYTHING** u need | its a cheatsheet bro
 [Pentestmonkey php-reverse-shell](https://github.com/pentestmonkey/php-reverse-shell) | Php revshell yes.. if u dont know whats the use of this learn more about hacking *dont be a skid* | Php
 [SqlMap](https://github.com/sqlmapproject/sqlmap) | Sql injection fuzzer, checker | Python
 [Subfinder](https://github.com/projectdiscovery/subfinder) | Passive subdomain discovery tool(**faster** than `Sublist3r` btw) | Go
