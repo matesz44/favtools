@@ -14,14 +14,20 @@ PROGRAM | DESCRIPTION | LANGUAGE
 [Ffuf](https://github.com/ffuf/ffuf) | **F**ast as **FU**ck web **F**uzzer | Go
 [Ghidra](https://ghidra-sre.org) | NSA Reversing tool(**very good** btw) | Java
 [GitRob](https://github.com/michenriksen/gitrob) | Scan some1's github profile for creds | Go
+[Gobuster](https://github.com/OJ/gobuster) | Directory, file(by type), and DNS fuzzer | Go
+[Go-WindAPSearch](https://github.com/ropnop/go-windapsearch) | LDAP enumerator | Go
 [Grip](https://github.com/joeyespo/grip) | Markdown preview in github template (*saves u* from literally **10 useless commits**) | Python
 [GTFO](https://github.com/mzfr/gtfo) | [GTFOBins](https://gtfobins.github.io) **cli** fetcher(my **favorite** one) | Python
 [Hash Identifier](https://github.com/psypanda/hashID) | Identify hashes | Python
 [Httprobe](https://github.com/tomnomnom/httprobe) | Scan a list of **domains** if `http` {and,or} `https` is working | Go
+[Joomscan](https://github.com/rezasp/joomscan) | Joomla CMS enumerator | Perl
 [LinEnum](https://github.com/rebootuser/LinEnum) | Linux privesc checker | Bash
 [{Lin,Win}Peas](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) | **New generation** linux, windows privesc checker | C#, Bash, Batch
+[nmapAutomator](https://github.com/21y4d/nmapAutomator) | Handy if u do multiple boxes at a same time(like OSCP) | Bash
+[Rogue-MySql-Server](https://github.com/Gifts/Rogue-MySql-Server) | If there is a vulnerable sql server out there u can read files with this script ;) | Python 
 [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) | Get those keys boii | Python
 [SecLists](https://github.com/danielmiessler/SecLists) | **HUGE** repo of wordlist + some webshells | What the actual fuck do u think
+[Shortcut](https://github.com/mt-empty/shortcut-c-client) | Shortcuts for literally every linux program | C
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Literally **EVERYTHING** u need | its a cheatsheet bro
 [Pentestmonkey php-reverse-shell](https://github.com/pentestmonkey/php-reverse-shell) | Php revshell yes.. if u dont know whats the use of this learn more about hacking *dont be a skid* | Php
 [SqlMap](https://github.com/sqlmapproject/sqlmap) | Sql injection fuzzer, checker | Python
@@ -42,6 +48,7 @@ PROGRAM | DESCRIPTION
 PROGRAM | DESCRIPTION | LANGUAGE
 --- | --- | :---:
 [dwm](https://dwm.suckless.org) | Best wm, **written in c**, what else do u need?! | C
+[st](https://st.suckless.org) | Best terminal emulator | C
 [dmenu](https://tools.suckless.org/dmenu) | Best fkin program in the whole universe (Just take a look at my [scripts repo](https://github.com/matesz44/scripts) :D) | C
 [slstatus](https://tools.suckless.org/slstatus) | Statusbar for dwm | C
 [nnn](https://github.com/jarun/nnn) | Best filemanager | C
@@ -51,6 +58,7 @@ PROGRAM | DESCRIPTION | LANGUAGE
 
 ## My builds
 - [My build of dwm](https://github.com/matesz44/dwm)
+- [My build of st](https://github.com/matesz44/st_)
 - [My build of slstatus](https://github.com/matesz44/slstatus)
 - [My dotfiles](https://github.com/matesz44/dotfiles)
 
